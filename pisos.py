@@ -1,3 +1,5 @@
+import time
+
 print("PISO 1")
 andar=1
 resposta=input("20 x 45 = ")
@@ -26,6 +28,8 @@ if resposta=="900":
                     andar=6
                     print("PISO HURRA")
                     print("¡Lograste superar el obstáculo matemático y conquistar los 5 pisos!")
+                    time.sleep(10)
+                    quit
                 else:
                     print(f"Lo hiciste bien, total de pisos completados: {andar-1}, respuesta: 1326")
             else:

@@ -1,2 +1,0 @@
-Para ganar el juego, debes completar 5 pisos. Aunque parezca sencillo, tendrás que resolver correctamente 5 problemas matemáticos.
-¡Intenta responder correctamente a todas las preguntas y completa el reto de mi primer juego!

@@ -1,3 +1,5 @@
+import time
+
 print("FLOOR 1")
 andar=1
 resposta=input("20 x 45 = ")
@@ -26,6 +28,8 @@ if resposta=="900":
                     andar=6
                     print("FLOOR: YAY")
                     print("You managed to beat the math and conquered all 5 floors!")
+                    time.sleep(10)
+                    quit
                 else:
                     print(f"You were good, successful floors: {andar-1}, answer: 1326")
             else:

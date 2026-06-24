@@ -1,0 +1,2 @@
+You must complete 5 floors to win the game. Although it seems simple, you will need to correctly solve 5 math problems along the way.
+Try to answer all the questions correctly and complete the challenge of my first game!

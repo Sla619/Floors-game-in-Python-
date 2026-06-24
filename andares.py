@@ -1,3 +1,5 @@
+import time
+
 print("ANDAR 1")
 andar=1
 resposta=input("20 x 45 = ")
@@ -26,6 +28,8 @@ if resposta=="900":
                     andar=6
                     print("ANDAR OBA")
                     print("Você conseguiu superar a matemática e venceu todos os 5 andares!")
+                    time.sleep(10)
+                    quit
                 else:
                     print(f"Você foi bem, andares sucedidos: {andar-1}, resposta: 1326")
             else:
